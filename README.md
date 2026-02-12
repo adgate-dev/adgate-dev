@@ -110,7 +110,7 @@
 
 <div align="center">
 
-📧 **Correo:** alduartega@gmail.com  
+📧 **Correo:** adduarte.dev@gmail.com  
 📱 **Teléfono:** +506 8603-1800  
 
 </div>
